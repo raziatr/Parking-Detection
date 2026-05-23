@@ -53,7 +53,7 @@ cd aol_comvis
 Install dependencies:
 
 ```bash
-pip install opencv-python numpy
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -61,7 +61,7 @@ pip install opencv-python numpy
 Run the main detection script:
 
 ```bash
-python "image_classifier.py"
+python app.py
 ```
 
 Controls:
