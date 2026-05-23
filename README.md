@@ -38,12 +38,6 @@ The system works by:
 2. Defining parking slot coordinates
 3. Cropping each parking area
 4. Applying image preprocessing:
-
-   * Grayscale conversion
-   * Gaussian blur
-   * Adaptive thresholding
-   * Median blur
-   * Dilation
 5. Counting non-zero pixels inside each slot
 6. Determining whether the slot is occupied or empty based on a threshold
 
