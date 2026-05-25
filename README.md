@@ -1,4 +1,4 @@
-# AOL Computer Vision Parking Detection
+# Computer Vision Parking Detection
 
 A computer vision project for detecting parking space occupancy using OpenCV and image processing techniques. This application analyzes parking lot footage and determines whether parking spots are occupied or available in real-time.
 
